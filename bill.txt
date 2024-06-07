@@ -1,0 +1,5 @@
+Danish 12 2800 y n y
+Ali 20 3000 y y y
+Hassan 78 3000 y y y
+Kamran 20 2200 n y n
+ali -90 2000 p i t

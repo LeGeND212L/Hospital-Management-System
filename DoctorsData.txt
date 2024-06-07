@@ -1,0 +1,20 @@
+Kamran                Shah                  40          Pediatrics           8:00-5:00              22000$
++923454222292
+Arbab               Zafar                  60           Neurology           8:00-5:00              25000$
++923009272742
+Shahid             Hussain                  45          Oncologist           6:00-3:00              30000$
++92300451555
+Arfan               Lodhi                  32         Dermatology           6:00-3:00             250000$
++92345687956
+Umair              Asghar                  34        Cardiologist           7:00-4:00              34000$
++923245634876
+Imran                Khan                  64       Ophthalmology           8:00-5:00              68000$
++923128888825
+Ayesha               Afzal                  36        Cardiologist           7:00-4:00              38000$
++923249999908
+Rahela                Asim                  42         Dermatology          10:00-7:00             250000$
++923457899910
+Usaid           ur_Rehman                  17               Brain          8:00-12:00             300000$
++923060500354
+Dr                  Dr                  99                 123           100:500pm             9999999
+990898

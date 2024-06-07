@@ -1,0 +1,4 @@
+Do_Regular_Exercise
+Eat_Fruits
+Eat_Meal
+Eat_Supplements
